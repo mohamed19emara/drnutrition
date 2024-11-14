@@ -1,0 +1,20 @@
+/* src/components/InteractiveQuiz.css */
+.interactive-quiz {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .interactive-quiz button {
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .interactive-quiz button:hover {
+    background-color: #218838;
+  }
+  

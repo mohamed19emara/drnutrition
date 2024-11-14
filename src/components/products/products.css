@@ -1,0 +1,18 @@
+/* src/components/ProductRecommendations.css */
+.product-card {
+    padding: 20px;
+  }
+  
+  .product-card ul {
+    list-style-type: none;
+  }
+  
+  .product-card a {
+    color: #28a745;
+    text-decoration: none;
+  }
+  
+  .product-card a:hover {
+    text-decoration: underline;
+  }
+  

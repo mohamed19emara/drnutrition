@@ -1,0 +1,20 @@
+/* src/components/FAQ.css */
+.faq {
+    padding: 20px;
+  }
+  
+  .faq-item {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .question {
+    font-weight: bold;
+  }
+  
+  .answer {
+    padding-top: 5px;
+    color: #666;
+  }
+  

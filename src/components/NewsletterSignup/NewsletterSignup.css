@@ -1,0 +1,21 @@
+/* src/components/NewsletterSignup.css */
+.newsletter-signup {
+    text-align: center;
+  }
+  
+  .newsletter-signup input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 80%;
+  }
+  
+  .newsletter-signup button {
+    padding: 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  

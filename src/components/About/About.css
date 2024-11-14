@@ -1,0 +1,11 @@
+/* src/components/AboutUs.css */
+.about-us {
+    padding: 30px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .about-us h2 {
+    color: #333;
+  }
+  

@@ -1,0 +1,45 @@
+
+.auto-typing-container {
+    display: flex;
+    height: 2000px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f4f8;
+    padding: 40px ;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .auto-typing-container h2 {
+    font-size: 1.8rem;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 15px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .auto-typing-container .typed-cursor {
+    color: #3498db;
+  }
+  
+  .auto-typing-container .typed {
+    font-size: 1.2rem;
+    color: #666;
+    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .auto-typing-container .typed-cursor {
+    animation: blink 0.7s infinite;
+  }
+  
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+/* src/components/Recipes.css */
+.recipes {
+    padding: 20px;
+  }
+  
+  .recipes h3 {
+    color: #28a745;
+  }
+  
+  .recipes ul {
+    list-style-type: none;
+  }
+  

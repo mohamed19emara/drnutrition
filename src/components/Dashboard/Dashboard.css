@@ -1,0 +1,31 @@
+.dashboard {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .dashboard h2 {
+    text-align: center;
+  }
+  
+  .dashboard-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .dashboard-section h3 {
+    color: #4CAF50;
+  }
+  
+  .dashboard-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .dashboard-section li {
+    padding: 5px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  
